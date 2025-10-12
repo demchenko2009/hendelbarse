@@ -1,0 +1,33 @@
+{
+  "name": "hendelbarse",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenko2009/hendelbarse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenko2009/hendelbarse/issues"
+  },
+  "homepage": "https://github.com/demchenko2009/hendelbarse#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "handlebars": "^4.7.8",
+    "modern-normalize": "^3.0.1",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}

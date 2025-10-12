@@ -1,0 +1,83 @@
+[
+  {
+    "nickname": "mebius",
+    "surname": "Іваненко",
+    "team": "IC",
+    "favorite_brawler": "Leon",
+    "trophies": 15200,
+    "img": "https://example.com/images/mebius.jpg",
+    "location": "Київ, Україна"
+  },
+  {
+    "nickname": "shadowX",
+    "surname": "Коваленко",
+    "team": "NightCrows",
+    "favorite_brawler": "Crow",
+    "trophies": 17850,
+    "img": "https://example.com/images/shadowX.jpg",
+    "location": "Львів, Україна"
+  },
+  {
+    "nickname": "blaze",
+    "surname": "Шевченко",
+    "team": "FireStorm",
+    "favorite_brawler": "Amber",
+    "trophies": 14200,
+    "img": "https://example.com/images/blaze.jpg",
+    "location": "Харків, Україна"
+  },
+  {
+    "nickname": "tankman",
+    "surname": "Петренко",
+    "team": "IronFist",
+    "favorite_brawler": "Bull",
+    "trophies": 13300,
+    "img": "https://example.com/images/tankman.jpg",
+    "location": "Дніпро, Україна"
+  },
+  {
+    "nickname": "sniperQueen",
+    "surname": "Мельничук",
+    "team": "SharpShooters",
+    "favorite_brawler": "Piper",
+    "trophies": 16500,
+    "img": "https://example.com/images/sniperQueen.jpg",
+    "location": "Одеса, Україна"
+  },
+  {
+    "nickname": "ninjaZ",
+    "surname": "Романюк",
+    "team": "SilentStrike",
+    "favorite_brawler": "Mortis",
+    "trophies": 14950,
+    "img": "https://example.com/images/ninjaZ.jpg",
+    "location": "Запоріжжя, Україна"
+  },
+  {
+    "nickname": "gadgeteer",
+    "surname": "Сидоренко",
+    "team": "TechMasters",
+    "favorite_brawler": "Rico",
+    "trophies": 12100,
+    "img": "https://example.com/images/gadgeteer.jpg",
+    "location": "Вінниця, Україна"
+  },
+  {
+    "nickname": "rocketboy",
+    "surname": "Демченко",
+    "team": "BoomSquad",
+    "favorite_brawler": "Brock",
+    "trophies": 13780,
+    "img": "https://example.com/images/rocketboy.jpg",
+    "location": "Черкаси, Україна"
+  },
+  {
+    "nickname": "healer",
+    "surname": "Литвин",
+    "team": "SupportForce",
+    "favorite_brawler": "Poco",
+    "trophies": 11000,
+    "img": "https://example.com/images/healer.jpg",
+    "location": "Полтава, Україна"
+  }
+]
