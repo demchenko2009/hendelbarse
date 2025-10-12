@@ -1,10 +1,11 @@
 {{#each brawl}}
   <li class="brawl-item">
-          <p class="brawl-name">{{nickname}}</p>      
-          <img src="{{img}}" alt="" class="brawl-img">
-          <h3 class="brawl-location">{{location}}</h3>
-          <p class="brawl-team">{{team}}</p>
+          <p class="brawl-name">{{nickname}}</p>   
+              <p class="brawl-surname">{{surname}}</p> 
+                <p class="brawl-team">{{team}}</p>     
           <p class="brawl-favorite__brawler">{{favorite_brawler}}</p>
-          <p class="brawl__trophies">{{trophies}}</p>
+            <p class="brawl__trophies">{{trophies}}</p>
+                    <img src="{{img}}" alt="" class="brawl-img">
+        <h3 class="brawl-location">{{location}}</h3>
             </li>
   {{/each}}
