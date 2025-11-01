@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html",
+    "build": "parcel build src/index.html --public-url /hendelbarse/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/demchenko2009/hendelbarse#readme",
   "devDependencies": {
-    "parcel": "^2.16.0"
+    "parcel": "^2.16.0",
+    "parcel-transformer-hbs": "^1.0.4"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
